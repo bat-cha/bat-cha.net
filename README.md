@@ -1,5 +1,7 @@
 # bat-cha.net
 
+[![Travis CI](https://travis-ci.org/bat-cha/bat-cha.net.svg?branch=master)
+
 > toy projects
 
 ## Build Setup

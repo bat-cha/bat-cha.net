@@ -10,13 +10,9 @@
       </h2>
       <div class="links">
         <a
-          href="https://nuxtjs.org/"
+          href="https://github.com/bat-cha/bat-cha.net"
           target="_blank"
-          class="button--green"
-        >Documentation</a>
-        <a
-          href="https://github.com/nuxt/nuxt.js"
-          target="_blank"
+          rel="noopener"
           class="button--grey"
         >GitHub</a>
       </div>
